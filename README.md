@@ -25,7 +25,7 @@ localhost:8000
      
 127.0.0.1:8000
 
-7. In case of any issue please contact auther
+7. In case of any issue please contact author
 
 Pattiwar Shravan Kuamar
 
