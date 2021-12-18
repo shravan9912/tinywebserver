@@ -5,19 +5,19 @@ Prerequesties:-----
 Python must be installed on your system
 
 How To use this:---
-1 open the cmd
+1. open the cmd
 
-2 cd to tinywebserver
+2. cd to tinywebserver
 
-3 run following on cmd
+3. run following on cmd
 
 python -m SimpleHTTPServer
 
-4 keep the cmd as it is
+4. keep the cmd as it is
 
-5 go to any webbrowser
+5. go to any webbrowser
 
-6 type the following url
+6. type the following url
 
 localhost:8000
 
@@ -25,7 +25,7 @@ localhost:8000
      
 127.0.0.1:8000
 
-7 In case of any issue please contact auther
+7. In case of any issue please contact auther
 
 Pattiwar Shravan Kuamar
 
