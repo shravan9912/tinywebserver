@@ -27,7 +27,7 @@ localhost:8000
 
 7 In case of any issue please contact auther
 
-Pattiwar Shravan Kuamr
+Pattiwar Shravan Kuamar
 
 shravan9912@gmail.com
 
